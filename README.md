@@ -19,6 +19,6 @@ const rafael = {
 }
 ```
 
-<em><b>Thank you for visiting my profile!</b></em> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+
 
 ---
