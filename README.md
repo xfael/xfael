@@ -1,5 +1,5 @@
-Hi, I'm Rafael! 
-<img align='right' src="https://media.giphy.com/media/8l1PbhbkO69dt4vzcT/giphy.gif" width="500">
+<h1>Hi, I'm Rafael! </h1>
+<img align='right' src="https://media.giphy.com/media/8l1PbhbkO69dt4vzcT/giphy.gif" width="400">
 <p><em>Software Enginner at <a href="https://www.uniceplac.edu.br/">uniceplac</a>
 
 [![Twitter: upfael](https://img.shields.io/twitter/follow/upfael?style=social)](https://twitter.com/upfael)
