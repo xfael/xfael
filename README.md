@@ -10,7 +10,7 @@
 ```javascript
 const rafael = {
 
-  code: [Javascript, TML, CSS, Python, Spring Boot],
+  code: [Javascript, CSS, Python, Spring Boot],
   tools: [Visual Studio Code, Docker],
 
                       },
