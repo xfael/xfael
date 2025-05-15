@@ -1,19 +1,18 @@
-<h1>Hi, I'm Rafael! </h1>
-<p><em>Studying software engineering at <a href="https://www.uniceplac.edu.br/">uniceplac</a>
+# Olá, eu sou o Rafael!
 
-### A little more about me...  
+## 👨‍💻 Sobre mim
+Estudo Engenharia de Software na [Uniceplac](https://www.uniceplac.edu.br/) e sou apaixonado por tecnologia. Atualmente, estou focado nos meus estudos e no desenvolvimento de habilidades, com especial interesse em **Cibersegurança**. Meu objetivo é aplicar meus conhecimentos para **beneficiar as pessoas através da tecnologia**.
+
+## 💻 Tecnologias que utilizo
 
 ```javascript
 const rafael = {
-
-  code: [Javascript, CSS, Python, Spring Boot],
-  tools: [Visual Studio Code, Docker],
-
-                      },
- challenge: "benefit people with technology"
+  code: [
+    "JavaScript", "CSS", "Python", "Spring Boot", 
+    "Java", "HTML"
+  ],
+  tools: [
+    "Visual Studio Code", "Git", "GitHub", "AWS", "Wireshark"
+  ],
+  platforms: ["Linux", "Windows"]
 }
-```
-
-
-
----
